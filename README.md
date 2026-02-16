@@ -12,7 +12,7 @@
   <h3 align="center">Sea-ice and lead unsupervised classification</h3>
 
   <p align="justify">
-    This repository contains the Week 4 assignment for the GEOL0069 Artificial Intelligence for Earth Observation module at UCL. The project focuses on using unsupervised learning methods to discriminate between **sea ice** and **leads** (open water within sea ice) using Sentinel-3 altimetry data. 
+    This project contains the Week 4 assignment for the GEOL0069 Artificial Intelligence for Earth Observation module at UCL. The project focuses on using unsupervised learning methods to discriminate between sea ice and leads using Sentinel-3 altimetry data. There are lots of unsupervised classification methods out there, but in this project, we will cover K-means and Gaussian Mixture Models (GMM) clustering, each with its own pros and cons.
   </p>
 </div>
 
