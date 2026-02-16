@@ -89,7 +89,10 @@ This process is repeated until convergence, meaning the parameters do not signif
 
 <!-- GETTING STARTED -->
 
-### Prerequisites
+This project is created using Google Colab, which is a cloud-based service provided by Google that allows users to write, execute, and share Python code through a web browser. It offers free access to a machine equipped with a GPU, making it a popular choice for machine learning and data science projects. This is an user-freindly way to test, excecute machine learning tasks, without any environment set-up on your device.
+To access the notebook, you can just click the Google Colab link in the ipynb file included in this repo.
+
+### Installation
 
 The following software needs to be installed to run the code.
 * Using pip install:
