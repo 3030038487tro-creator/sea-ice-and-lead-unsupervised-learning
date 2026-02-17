@@ -162,7 +162,6 @@ plt.show()
   ```
 
 ![Gaussian Mixture Model](Gaussian Mixture Model.png)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
   <!-- FUNCTIONS -->
