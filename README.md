@@ -4,11 +4,6 @@
 <a name="readme-top"></a>
 
 <br />
-<div align="center">
-  <a href="https://github.com/affan1317/sea-ice-and-lead-unsupervised-learning">
-    <img src="Logo.png" alt="Logo" width="800" height="500">
-  </a>
-  
   <h3 align="center">Sea-ice and lead unsupervised classification</h3>
 
   <p align="justify">
@@ -33,6 +28,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
+    <li><a href="#results">Results</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -170,11 +166,6 @@ plt.legend()
   ```
 
 ![STD](std.png)
-
-The noise on the mean and standard deviations for the sea ice and lead echos is due to the shift in echos as they are plotted across the x-axis. The mean and standard deviation for the aligned echos are plotted below: 
-
-![aligned_mean](aligned_mean.png)
-![aligned_std](aligned_std.png)
 
 We can also inspect how many data points are there in each class of your clustering prediction using the code below:
 
