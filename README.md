@@ -188,7 +188,7 @@ Below is a confusion matrix comparing the ESA official classification (flags) ag
 # Contact
 Shuyi Zheng - zczq923@ucl.ac.uk
 
-Project Link: [[https://github.com/3030038487tro-creator/sea-ice-and-lead-unsupervised-learning](https://github.com/3030038487tro-creator/titanic.git)
+Project Link: [https://github.com/3030038487tro-creator/sea-ice-and-lead-unsupervised-learning](https://github.com/3030038487tro-creator/sea-ice-and-lead-unsupervised-learning.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
